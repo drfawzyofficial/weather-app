@@ -1,0 +1,72 @@
+[
+    {
+        "hours": [
+            {
+                "time": "2020-09-19T00:00:00+00:00",
+                "waterTemperature": {
+                    "meto": 28.81,
+                    "noaa": 21.2,
+                    "sg": 28.81
+                }
+            }
+        ],
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2020-09-19 00:00",
+            "lat": 30.6043775,
+            "lng": 32.2770825,
+            "params": [
+                "waterTemperature"
+            ],
+            "requestCount": 1,
+            "start": "2020-09-19 00:00"
+        }
+    },
+    {
+        "hours": [
+            {
+                "time": "2020-09-19T00:00:00+00:00",
+                "waterTemperature": {
+                    "noaa": 23.9,
+                    "sg": 23.9
+                }
+            }
+        ],
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2020-09-19 00:00",
+            "lat": 26.2540493,
+            "lng": 29.2675469,
+            "params": [
+                "waterTemperature"
+            ],
+            "requestCount": 2,
+            "start": "2020-09-19 00:00"
+        }
+    },
+    {
+        "hours": [
+            {
+                "time": "2020-09-19T00:00:00+00:00",
+                "waterTemperature": {
+                    "noaa": 15.2,
+                    "sg": 15.2
+                }
+            }
+        ],
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2020-09-19 00:00",
+            "lat": 45.8889285,
+            "lng": 6.2376659,
+            "params": [
+                "waterTemperature"
+            ],
+            "requestCount": 3,
+            "start": "2020-09-19 00:00"
+        }
+    }
+]
